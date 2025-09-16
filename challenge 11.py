@@ -1,0 +1,8 @@
+x="tom"
+y="fred"
+z="henry"
+z=y
+y=x
+x=z
+print(x,y,z)
+# What is printed when this code is executed?
